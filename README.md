@@ -14,3 +14,11 @@ As we started exploring the data we come to know that the data is uncleaned and 
 **Data Cleaning**: Removing duplicates, null values, using correct data type, etc. comes under this step.
 
 **Feature Selection and Visualization**: After cleaning the data we have visualized the facts from the data.
+
+## 📦 Python Libraries and Versions
+
+- `pandas==2.2.1`
+- `numpy==1.26.4`
+- `matplotlib==3.8.4`
+- `seaborn==0.13.2`
+- `scikit-learn==1.4.2`
