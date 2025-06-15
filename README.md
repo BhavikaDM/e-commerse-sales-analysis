@@ -4,6 +4,7 @@ The dataset which is used is of an ecommerse website.
 The data contain all sales recorded from June to September 2022. Information such as the customers' personal information wasn't included for privacy and confidentiality. Other irrelevant features were also removed to make the dataset simpler and more user-friendly.
 
 # Contents
+
 This dataset contains the following columns along with their descriptions:
 
 order_id: unique identifier for each order placed
@@ -20,7 +21,7 @@ quantity: quantity ordered for that particular product
 
 revenue: unit_price * quantity
 
- :rocket:Source:https://www.kaggle.com/datasets/shilongzhuang/-women-clothing-ecommerce-sales-data. 
+:rocket:Source:https://www.kaggle.com/datasets/shilongzhuang/-women-clothing-ecommerce-sales-data. 
 
 As we started exploring the data we come to know that the data is uncleaned and has so many error, by using various python libraries we are going to cleaned the data and interpreting the hidden insights from the data to support the business growth.
 
